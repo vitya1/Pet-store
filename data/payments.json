@@ -1,0 +1,68 @@
+[
+    {
+        "time": 10,
+        "type": "insurance",
+        "sum": 1000
+    },
+    {
+        "time": 11,
+        "type": "insurance",
+        "sum": 1000
+    },
+    {
+        "time": 12,
+        "type": "buy",
+        "sum": 141
+    },
+    {
+        "time": 13,
+        "type": "buy",
+        "sum": 777
+    },
+    {
+        "time": 14,
+        "type": "buy",
+        "sum": 800
+    },
+    {
+        "time": 15,
+        "type": "deposite",
+        "sum": 31
+    },
+    {
+        "time": 16,
+        "type": "deposite",
+        "sum": 79
+    },
+    {
+        "time": 17,
+        "type": "payout",
+        "sum": 885
+    },
+    {
+        "time": 18,
+        "type": "return",
+        "sum": 600
+    },
+    {
+        "time": 19,
+        "type": "veterinar",
+        "sum": 200
+    },
+    {
+        "time": 20,
+        "type": "veterinar",
+        "sum": 200
+    },
+    {
+        "time": 21,
+        "type": "veterinar",
+        "sum": 200
+    },
+    {
+        "time": 22,
+        "type": "veterinar",
+        "sum": 200
+    }
+    
+]
